@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@okk22d 
-linuxacademy
-/
-cicd-pipeline-train-schedule-cd
-Public
-Code
-Issues
-2
-Pull requests
-46
-Actions
-Projects
-Wiki
-Security
-Insights
-cicd-pipeline-train-schedule-cd/Jenkinsfile
-@whboyd
-whboyd Implement CD pipeline
-Latest commit d605ba9 on 4 May 2018
- History
- 1 contributor
-74 lines (74 sloc)  3.25 KB
-
 pipeline {
     agent any
     stages {
